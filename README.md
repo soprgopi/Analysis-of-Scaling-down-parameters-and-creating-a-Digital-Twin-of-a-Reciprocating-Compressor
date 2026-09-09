@@ -18,7 +18,7 @@ cad/                 crankshaft/flywheel CAD (Phase 3) - not yet started
 ## Status
 
 - [x] Design basis defined (`docs/design-basis.md`) — gas, pressures, RPM range,
-      benchmarked against Maximator's public DLE gas-booster datasheets
+      benchmarked against public DLE gas-booster datasheets
 - [x] Crank-slider kinematics + turning-moment-diagram flywheel sizing
       (`sizing-scripts/crank_slider_sizing.py`)
 - [x] Three-domain multiphysical digital twin (electric drive / mechanical
