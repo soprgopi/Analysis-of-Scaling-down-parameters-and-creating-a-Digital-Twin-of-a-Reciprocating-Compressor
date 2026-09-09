@@ -8,9 +8,8 @@
 Determine whether a mechanical crankshaft-drive, proven on large-scale
 high-speed (100-2000 RPM) reciprocating gas compressors, can be adapted
 to a small-scale, low-speed (1-30 RPM) hydrogen compressor — and if so,
-what that adaptation actually requires. This is the original feasibility
-question from the (unfunded) Maximator thesis brief, carried forward as
-an independent project (see docs/design-basis.md).
+what that adaptation actually requires. carried forward as
+an independent project 
 
 ## Method
 
