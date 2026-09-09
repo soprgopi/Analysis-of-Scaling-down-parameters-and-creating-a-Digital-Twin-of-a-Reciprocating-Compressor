@@ -3,8 +3,7 @@
 Self-directed Master project investigating whether a mechanical
 crankshaft-drive proven on large-scale, high-speed (100-2000 RPM)
 reciprocating gas compressors can be adapted to a small-scale, low-speed
-(1-30 RPM) machine — originally scoped as an industry thesis with
-Maximator GmbH, continued independently after funding was withdrawn.
+(1-30 RPM) machine
 
 ## Repository structure
 
