@@ -55,8 +55,7 @@ than the flywheel-smoothed approach used on high-speed machines.
   longer stroke to check whether inertia ever becomes significant.
 - Indicator diagram is idealised (no valve dynamics, no leakage, no
   friction) — fine for first-pass sizing, not for the final digital twin.
-- All geometry and pressure figures are representative, not real
-  Maximator specifications (see `docs/design-basis.md` §7).
+- All geometry and pressure figures are representative
 
 ## Requirements
 
